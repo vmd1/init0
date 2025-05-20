@@ -20,7 +20,7 @@ ShowWordCount: true
 
 Hey! Welcome to **Byte**, my digital notepad for all things techy, where I share whatever I happen to be working on at the moment.
 
-Byte is a place for anything, from Home Automation, to my Programming endeavours, to me trying to self-host half of Google.
+Byte is a place for anything, from Home Automation, to my programming endeavours, to me trying to self-host half of Google.
 
 Whether you’re here to learn something new, see what I’ve been building, or just take a peek into my workflow — I’m glad you stopped by.
 
