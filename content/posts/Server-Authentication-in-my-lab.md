@@ -1,7 +1,7 @@
 ---
 date: '2025-05-21T09:30:00Z'
 draft: false
-title: 'Authentication in my lab'
+title: 'Server Authentication in my lab'
 author: Vivaan M
 disableHLJS: true # to disable highlightjs
 disableShare: true
