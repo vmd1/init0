@@ -24,7 +24,7 @@ Let’s take a look into what my ‘(home)lab’ (that’s quite a generous word
 - 2 Oracle cloud free-tier VMs
 - My other laptop, which adds some power to the ‘cluster’ when I’m not using it
 
-![Node List](nodes.png)
+![Node List](media/nodes.png)
 
 So in the grand scheme of things, it’s not that powerful. But that also adds to the challenge, as things might need some tweaking to get working. Of course, this comes with the caveat of wanting to drop-kick my laptop out of the windows when things don’t work, but it’s all part of the fun…, right?
 
