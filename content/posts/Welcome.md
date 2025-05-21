@@ -4,8 +4,8 @@ draft: false
 title: 'Welcome'
 author: Vivaan M
 disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
+disableShare: true
+hideSummary: true
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
