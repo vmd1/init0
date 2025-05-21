@@ -1,6 +1,6 @@
 ---
-date: '2025-05-21T08:54:00Z'
-draft: true
+date: '2025-05-21T10:30:00Z'
+draft: false
 title: 'Authentication in my lab'
 author: Vivaan M
 disableHLJS: true # to disable highlightjs
@@ -11,6 +11,10 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
+tags:
+- Lab
+- Guide
+- Authentication
 ---
 ## Why?
 
@@ -95,7 +99,7 @@ The move to SSSD also meant that I could setup sshPublicKey sync, meaning that I
 
 I thought it might be worthwhile to send it in as a pull request so that the guide in the repository was updated: https://github.com/lldap/lldap/pull/1146, and if any of you want to try it out yourself, here’s a guide:
 
-# Getting Started with UNIX PAM using SSSD
+# Unix PAM with SSSD
 
 ## Configuring LLDAP
 
@@ -213,19 +217,14 @@ Linux often manages permissions to tools such as Sudo and Docker based on group 
 
 **Number 1**
 
-**If all your client systems are setup identically,** you can just check the group id of the local group, i.e. Sudo being 27 on most Debian and Ubuntu installs, and set that as the gid in LLDAP. For tools such as docker, you can create a group before install with a custom gid on the system, which must be the same on all, and use that GID on the LLDAP group
+**If all your client systems are setup identically,** you can just check the group id of the local group, i.e. Sudo being 27 on most Debian and Ubuntu installs, and set that as the gid in LLDAP. For tools such as docker, you can create a group before install with a custom gid on the system, which must be the same on all, and use that GID on the LLDAP groups:
 
-Sudo
-
-[](https://github.com/user-attachments/assets/731847e6-c857-4250-a007-a3790a6a1b6d)
-
-Docker
+- Sudo (e.g. 27)
+- Docker (e.g. 722)
 
 ```jsx
 sudo groupadd docker -g 722
 ```
-
-[](https://github.com/user-attachments/assets/face88d0-5a20-4442-a5e3-9f6a1ae41b68)
 
 **Number 2**
 

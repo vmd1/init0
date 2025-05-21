@@ -11,6 +11,8 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
+tags:
+- Welcome
 ---
 # Welcome to Byte
 
