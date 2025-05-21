@@ -30,7 +30,7 @@ Thanks, and I hope to see you around,
 Vivaan
 
 ```bash
-02:48:38 vivaan@ultimate ~ → init 0
+02:49:42 vivaan@ultimate ~ → init 0
 Connection closed by remote host
 ```
 
