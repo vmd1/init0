@@ -1,6 +1,6 @@
-baseURL: https://byte.848226.xyz/
+baseURL: https://init0.848226.xyz/
 languageCode: en-us
-title: Byte
+title: Init0
 theme: ["PaperMod"]
 caches:
   images:
@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Byte
-  description: "Byte: My digital notepad for all things tech."
+  title: Init0
+  description: "Init0: My digital notepad for all things tech."
   keywords: [Blog, Portfolio, PaperMod]
   author: Vivaan M
   # author: ["Me", "You"] # multiple authors
@@ -45,7 +45,9 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "Welcome to Byte: My digital notepad for all things tech."
+    Content: |
+      $ man init0  
+      My digital notepad for all things tech.
 
   socialIcons:
     - name: github
