@@ -1,7 +1,7 @@
 ---
 date: '2025-05-21T09:30:00Z'
 draft: false
-title: 'Server Authentication in my lab'
+title: 'Server Authentication in the lab'
 author: Vivaan M
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -18,7 +18,7 @@ tags:
 ---
 ## Why?
 
-One of the central aspects of my setup is my LLDAP server. This allows all services to authenticate using the same credentials, meaning users just need to remember one set of logins. One thing I wanted to do was to ensure my servers also authenticated against the same server. 
+One of the central aspects of my setup is the LLDAP server. This allows all services to authenticate using the same credentials, meaning users just need to remember one set of logins. One thing I wanted to do was to ensure the servers also authenticated against the same server. 
 
 ## Let’s get started
 
