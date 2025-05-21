@@ -24,7 +24,7 @@ One of the central aspects of my setup is my LLDAP server. This allows all servi
 
 I initially started off by following the guide on the LLDAP repository to setup NSLCD in combination with LLDAP, however I soon found the NSLCD was no longer actively supported. This meant that it was quite lacking in the feature space, and often had weird compatibility issues. 
 
-> Enter: SSSD
+> Enter: 
 SSSD (System Security Services Daemon) is **a software that manages access to remote directory services and authentication mechanisms, primarily used in Linux environments.**
 > 
 
