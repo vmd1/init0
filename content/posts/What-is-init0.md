@@ -1,6 +1,6 @@
 ---
 date: '2025-05-22T11:00:49Z'
-draft: true
+draft: false
 title: 'What Is Init0?'
 tags:
 - Welcome
