@@ -1,5 +1,5 @@
 ---
-date: '2025-05-22T12:46:49Z'
+date: '2025-05-22T11:00:49Z'
 draft: true
 title: 'What Is Init0?'
 tags:
