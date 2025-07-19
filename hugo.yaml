@@ -48,6 +48,12 @@ params:
       $ man init0  
       My digital notepad for all things tech.
 
+  assets:
+    disableHLJS: true 
+    favicon: "https://cdn.848226.xyz/v1/blog/media/favicon/favicon-32.ico"
+    favicon16x16: "https://cdn.848226.xyz/v1/blog/media/favicon/favicon-16.ico" 
+    favicon32x32: "https://cdn.848226.xyz/v1/blog/media/favicon/favicon-32.ico" 
+
   socialIcons:
     - name: github
       url: "https://github.com/vmd1"
