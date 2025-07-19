@@ -1,10 +1,11 @@
 ---
 date: '2025-07-19T18:15:00Z'
 draft: false
-title: 'Self Hosting the UniFi Controller'
+title: 'Self-hosting the UniFi Controller'
 tags:
 - Lab
 - Services
+- Guide
 - Networking
 ---
 In order to fully utilise the UniFi APs full feature set, you’ll need to have a UniFi controller of some sort. This can be a UniFi Cloud Key, a UniFi Cloud Gateway, or… you can host one yourself. So obviously, I chose the third option. 

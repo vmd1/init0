@@ -5,6 +5,7 @@ title: 'Self-hosting a Password Manager'
 tags:
 - Lab
 - Services
+- Guide
 ---
 Passwords are one of the most important aspects of our digital lives nowadays, making the password manager of your choice one of the most important tools you use. I was using Bitwarden, until I decided that I’m gonna take a little risk and self-host my password manager.
 
