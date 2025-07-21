@@ -41,6 +41,17 @@ params:
   showtoc: true
   tocopen: true
 
+  profileMode:
+    enabled: false
+    title: Init0
+    imageUrl: "#"
+    imageTitle: "n/a"
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
