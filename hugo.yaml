@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Init0: Vivaan's digital notepad for all things tech.""
+  title: "Init0: Vivaan's digital notepad for all things tech."
   description: "Init0: Vivaan's digital notepad for all things tech. This is a place for anything, from Home Automation, to Vivaan's programming endeavours, to him trying to self-host half of Google!"
   keywords: [Blog, Portfolio, PaperMod]
   author: Vivaan M
