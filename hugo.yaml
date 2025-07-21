@@ -45,11 +45,9 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: |
-      $ whoami
-      vivaan
       $ man init0  
-      My digital notepad for all things tech.
-      A place for anything, from Home Automation, to my programming endeavours, to me trying to self-host half of Google!
+      Vivaan's digital notepad for all things tech.
+      A place for anything, from Home Automation, to Vivaan's programming endeavours, to him trying to self-host half of Google!
 
   assets:
     disableHLJS: true 
