@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Init0
-  description: "Init0: My digital notepad for all things tech."
+  title: "Init0: Vivaan's digital notepad for all things tech.""
+  description: "Init0: Vivaan's digital notepad for all things tech. This is a place for anything, from Home Automation, to Vivaan's programming endeavours, to him trying to self-host half of Google!"
   keywords: [Blog, Portfolio, PaperMod]
   author: Vivaan M
   # author: ["Me", "You"] # multiple authors
@@ -26,8 +26,8 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: true
-  ShowShareButtons: false
-  ShowPostNavLinks: true
+  ShowShareButtons: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
@@ -35,18 +35,21 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: true
+  comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: |
+      $ whoami
+      vivaan
       $ man init0  
       My digital notepad for all things tech.
+      A place for anything, from Home Automation, to my programming endeavours, to me trying to self-host half of Google!
 
   assets:
     disableHLJS: true 
