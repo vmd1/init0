@@ -2,15 +2,6 @@
 date: '2025-05-21T09:30:00Z'
 draft: false
 title: 'Server Authentication in the lab'
-author: Vivaan M
-disableHLJS: true # to disable highlightjs
-disableShare: true
-hideSummary: true
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
 tags:
 - Lab
 - Guide

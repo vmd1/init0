@@ -2,15 +2,6 @@
 date: '2025-05-20T13:40:27Z'
 draft: false
 title: 'Welcome'
-author: Vivaan M
-disableHLJS: true # to disable highlightjs
-disableShare: true
-hideSummary: true
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
 tags:
 - Welcome
 ---
