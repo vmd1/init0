@@ -14,7 +14,7 @@ There are two methods for installing the controller. One is on Docker, or you ca
 
 ## Docker
 
-Well, in order to do this, you obviously need to have Docker installed - if not, see [here](https://init0.848226.xyz/posts/un-installing-docker/) for how to do that.
+Well, in order to do this, you obviously need to have Docker installed - if not, see [here](https://init0.848226.xyz/foundation/un-installing-docker/) for how to do that.
 
 ### Compose file
 
