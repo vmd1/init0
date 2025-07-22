@@ -1,7 +1,7 @@
 ---
 date: '2025-05-23T14:21:40Z'
 draft: false
-title: 'Google I/O'
+title: 'Google I/O 2025'
 tags:
 - News
 - Google

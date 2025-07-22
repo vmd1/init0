@@ -85,6 +85,29 @@ params:
     google:
       SiteVerificationTag: "G-KF0B8B23KT"
 
+  mainSections:
+    - docs
+    - guides  
+    - updates
+    - foundation
+  
+  menu:
+    main:
+      - identifier: home
+        name: Home
+        url: /
+        weight: 1
+
+      - identifier: archives
+        name: Archives
+        url: /archives/
+        weight: 2
+
+      - identifier: tags
+        name: Tags
+        url: /tags/
+        weight: 3
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -96,3 +119,8 @@ markup:
     # lineNos: true
     # style: monokai
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
