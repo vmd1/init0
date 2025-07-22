@@ -1,7 +1,7 @@
 ---
 date: '2025-07-21T15:00:00Z'
 draft: false
-title: 'A Modular Structure in Home Assistant'
+title: 'Home Assistant... But Modular'
 tags:
 - Lab
 - Guide
