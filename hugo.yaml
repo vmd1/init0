@@ -106,7 +106,6 @@ menu:
     - identifier: braindumps
       name: Braindumps
       url: /braindumps/
-      parent: all-posts
       weight: 3
 
     - identifier: tags
