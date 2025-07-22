@@ -98,51 +98,26 @@ menu:
       url: /
       weight: 1
 
-    - identifier: all-posts
-      name: All Posts
-      weight: 2
-      pre: "<i class='fas fa-book'></i>"
-
-    - identifier: all
-      name: All
+    - identifier: archives
+      name: Archives
       url: /archives/
-      parent: all-posts
-      weight: 0
+      weight: 2
 
     - identifier: braindumps
       name: Braindumps
       url: /braindumps/
       parent: all-posts
-      weight: 1
-
-    - identifier: foundation
-      name: Foundation
-      url: /foundation/
-      parent: all-posts
-      weight: 2
-
-    - identifier: guides
-      name: Guides
-      url: /guides/
-      parent: all-posts
       weight: 3
-
-    - identifier: updates
-      name: Updates
-      url: /updates/
-      parent: all-posts
-      weight: 4
 
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 3
+      weight: 4
 
     - identifier: search
       name: Search
       url: /search/
       weight: 4
-      pre: "<i class='fas fa-search'></i>"
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
