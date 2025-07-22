@@ -45,11 +45,9 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >
-      ```
       $ man init0  
       Vivaan's digital notepad for all things tech.
       A place for anything, from Home Automation, to Vivaan's programming endeavours, to him trying to self-host half of Google!
-      ```
 
   assets:
     disableHLJS: true 
