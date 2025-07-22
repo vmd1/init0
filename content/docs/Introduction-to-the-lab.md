@@ -2,15 +2,6 @@
 date: '2025-05-21T08:54:00Z'
 draft: false
 title: 'Introduction to the lab'
-author: Vivaan M
-disableHLJS: true # to disable highlightjs
-disableShare: true
-hideSummary: true
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
 tags:
 - Lab
 - Welcome
