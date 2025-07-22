@@ -109,7 +109,7 @@ menu:
       weight: 3
 
     - identifier: search
-      name: Search
+      name: "\U0001F50E"
       url: /search/
       weight: 4
 
