@@ -54,7 +54,7 @@ v1/
 
 ### OPTIONAL: Add a custom domain
 
-Go to your DNS provider, and add a cname entry for the domain you want to use (in my case `cdn.848226.xyz` , pointing to `vmd1.github.io` . Next up, let’s add it in the repo settings.
+Go to your DNS provider, and add a cname entry for the domain you want to use, pointing to `YOUR_USERNAME.github.io` (in my case `cdn.848226.xyz`, pointing to `vmd1.github.io`). Next up, let’s add it in the repo settings.
 
 ![Set the domain in GitHub Pages.gif](https://cdn.848226.xyz/v1/blog/media/posts/Overcomplicating-asset-serving/github-domain.gif)
 
