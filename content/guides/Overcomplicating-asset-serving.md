@@ -2,6 +2,9 @@
 date: '2025-07-23T14:35:00Z'
 draft: false
 title: 'Overcomplicating Asset Serving'
+tags:
+- Services
+- Infrastructure
 ---
 All the images on my blog need a place to live, and while I could just serve it on the blog itself, some of my other projects need locations for files to live - and serving it on them natively just isn’t a viable option. Images and the like are also more heavier then text, and so it can often be beneficial to load them from a more local server. 
 

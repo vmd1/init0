@@ -2,6 +2,9 @@
 date: '2025-07-23T14:30:00Z'
 draft: false
 title: 'Some Notes on the UniFi APs'
+tags:
+- Lab
+- Networking
 ---
 I recently learnt that you can control the UniFi APs LEDs via SSH, which allows you to script their control. This means that I can change what colour they are using, and schedule them to turn on and off automatically - see [here](https://init0.848226.xyz/guides/controlling-my-unifi-ap-leds-via-home-assistant/) for that. However, I though it might be worth making a small post regarding exactly what I found.
 
