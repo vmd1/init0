@@ -81,9 +81,9 @@ params:
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 
-  analytics:
-    google:
-      SiteVerificationTag: "G-KF0B8B23KT"
+services:
+  googleAnalytics:
+    ID: "G-KF0B8B23KT"
 
   mainSections:
     - docs
