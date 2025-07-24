@@ -81,15 +81,16 @@ params:
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 
-services:
-  googleAnalytics:
-    ID: "G-KF0B8B23KT"
 
   mainSections:
     - docs
     - guides  
     - updates
     - foundation
+
+services:
+  googleAnalytics:
+    ID: "G-KF0B8B23KT"
   
 menu:
   main:
