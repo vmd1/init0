@@ -3,7 +3,7 @@ date: '2025-07-27T17:00:00Z'
 draft: false
 title: 'PowerShell Scripting for an overly specific problem'
 ---
-On our school laptops, for whatever reason, the applications menu from settings has been removed. As a result, you cannot uninstall any non-Microsoft store applications - it just tries to open a settings menu that we can’t access. As a result, I thought it would be worthwhile to build a PowerShell script to tap into the `Uninstall Information` registry keys - and get the uninstall paths from here.
+On our school laptops, for whatever reason, the applications menu from settings has been removed. As a result, you cannot uninstall any non-Microsoft store applications - it just tries to open a settings menu that we can’t access. So, I thought it would be worthwhile to build a PowerShell script to tap into the `Uninstall Information` registry keys - and get the uninstall paths from here.
 
 It also has some other features, such as:
 
