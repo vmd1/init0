@@ -87,6 +87,7 @@ params:
     - guides  
     - updates
     - foundation
+    - white-hat
 
 services:
   googleAnalytics:
