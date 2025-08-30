@@ -6,27 +6,27 @@
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --content: rgb(31, 31, 31);
-    --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+    --theme: #f8fafc;           /* slate-50 */
+    --entry: #e2e8f0;           /* slate-200 */
+    --primary: #0f172a;         /* slate-900 */
+    --secondary: #64748b;       /* slate-500 */
+    --tertiary: #94a3b8;        /* slate-400 */
+    --content: #1e293b;         /* slate-800 */
+    --code-block-bg: #1e293b;   /* slate-800 */
+    --code-bg: #f1f5f9;         /* slate-100 */
+    --border: #334155;          /* slate-700 */
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
-    --code-block-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
+    --theme: #0f172a;           /* slate-900 */
+    --entry: #1e293b;           /* slate-800 */
+    --primary: #f1f5f9;         /* slate-100 */
+    --secondary: #94a3b8;       /* slate-400 */
+    --tertiary: #64748b;        /* slate-500 */
+    --content: #e2e8f0;         /* slate-200 */
+    --code-block-bg: #1e293b;   /* slate-800 */
+    --code-bg: #334155;         /* slate-700 */
+    --border: #1e293b;          /* slate-800 */
 }
 
 .list {
