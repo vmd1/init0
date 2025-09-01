@@ -27,6 +27,7 @@ params:
   disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter", "whatsapp", "reddit"] # To customize which share buttons to be enabled on page
   ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -35,7 +36,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: true
@@ -62,6 +63,9 @@ params:
       url: "https://www.instagram.com/v.md.1"
     - name: reddit
       url: "https://www.reddit.com/user/vmd1_"
+    - name: email
+      url: "mailto:me@vmd1.dev"
+    - 
 
 
   cover:
