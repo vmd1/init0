@@ -6,27 +6,27 @@
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
-    --theme: #f8fafc;           /* slate-50 */
-    --entry: #e2e8f0;           /* slate-200 */
-    --primary: #0f172a;         /* slate-900 */
-    --secondary: #64748b;       /* slate-500 */
-    --tertiary: #94a3b8;        /* slate-400 */
-    --content: #1e293b;         /* slate-800 */
-    --code-block-bg: #1e293b;   /* slate-800 */
-    --code-bg: #f1f5f9;         /* slate-100 */
-    --border: #334155;          /* slate-700 */
+    --theme: #d5d6db;           /* tokyo light bg */
+    --entry: #e9e9ec;           /* tokyo light entry */
+    --primary: #3760bf;         /* tokyo light primary */
+    --secondary: #5a5b72;       /* tokyo light secondary */
+    --tertiary: #8c8fa5;        /* tokyo light tertiary */
+    --content: #343b58;         /* tokyo light content */
+    --code-block-bg: #c8c9ce;   /* tokyo light code block */
+    --code-bg: #c8c9ce;         /* tokyo light code bg */
+    --border: #b8b9be;          /* tokyo light border */
 }
 
 .dark {
-    --theme: #0f172a;           /* slate-900 */
-    --entry: #1e293b;           /* slate-800 */
-    --primary: #f1f5f9;         /* slate-100 */
-    --secondary: #94a3b8;       /* slate-400 */
-    --tertiary: #64748b;        /* slate-500 */
-    --content: #e2e8f0;         /* slate-200 */
-    --code-block-bg: #1e293b;   /* slate-800 */
-    --code-bg: #334155;         /* slate-700 */
-    --border: #1e293b;          /* slate-800 */
+    --theme: #1a1b26;           /* tokyo-night editor.background */
+    --entry: #16161e;           /* tokyo-night sideBar.background */
+    --primary: #a9b1d6;         /* tokyo-night editor.foreground */
+    --secondary: #787c99;       /* tokyo-night foreground */
+    --tertiary: #545c7e;        /* tokyo-night disabledForeground */
+    --content: #a9b1d6;         /* tokyo-night editor.foreground */
+    --code-block-bg: #16161e;   /* tokyo-night textCodeBlock.background */
+    --code-bg: #14141b;         /* tokyo-night input.background */
+    --border: #101014;          /* tokyo-night editorGroup.border */
 }
 
 .list {
