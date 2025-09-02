@@ -64,8 +64,7 @@ params:
     - name: reddit
       url: "https://www.reddit.com/user/vmd1_"
     - name: email
-      url: "mailto:me@vmd1.dev"
-    - 
+      url: "mailto:me@vmd1.dev" 
 
 
   cover:
