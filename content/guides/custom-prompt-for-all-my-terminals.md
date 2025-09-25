@@ -26,10 +26,10 @@ mv $HOME/Downloads/starship $HOME/.bin
 chmod +x $HOME/.bin/starship
 ```
 
-Add the following to the bottom of your `.bashrc` :
+Add the following to the bottom of your `.bashrc`, replacing `SHELL_NAME` with the name of your shell e.g. bash:
 
 ```bash
-eval $($HOME/.bin/starship something)
+eval "$(starship init SHELL_NAME)"
 ```
 
 ## Configuring Starship
