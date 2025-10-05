@@ -8,7 +8,13 @@
 {{- end }}
 
 {{- /* Title */}}
-<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
+<title>
+  {{ if .IsHome }}
+    Init0 - vmd1
+  {{ else }}
+    {{ if .Title }}{{ .Title }} - {{ end }}Init0 - vmd1
+  {{ end }}
+</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
