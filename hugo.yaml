@@ -71,8 +71,6 @@ params:
       url: "https://twitter.com/vmdi189"
     - name: threads
       url: "https://www.threads.net/@v.md.1"
-    - name: pinterest
-      url: "https://uk.pinterest.com/vmd189/"
     - name: rss
       url: "https://vmd1.dev"
     - name: email
