@@ -59,10 +59,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/vmd1"
-    - name: instagram
-      url: "https://www.instagram.com/v.md.1"
-    - name: reddit
-      url: "https://www.reddit.com/user/vmd1_"
+    - name: rss
+      url: "https://l.vmd1.dev"
     - name: email
       url: "mailto:me@vmd1.dev" 
 
