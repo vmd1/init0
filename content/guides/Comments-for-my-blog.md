@@ -5,7 +5,7 @@ title: 'Comments for My Blog'
 tags:
 - Blog
 ---
-Blogs are great and all, but they need to have a level of interactivity. That’s where comments come in. And it’s become incredibly easy, thanks to this amazing platform I found, powered by GitHub Discussions.
+Blogs are great and all, but they need to have a level of interactivity, otherwise it can feel a bit dull. That’s where comments come in. And it’s become incredibly easy now, thanks to this amazing platform I found, powered by GitHub Discussions.
 
 > Enter: Giscus - A comments system powered by GitHub Discussions  💬 💎
 
