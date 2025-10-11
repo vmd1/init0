@@ -155,7 +155,7 @@ web-push-email-address: WEB_PUSH_MAIL
 - Enables **browser push notifications** using the Web Push protocol.
 - You’ll need to generate VAPID keys
     - Open a shell in the container: `docker exec -ti ntfy bash`
-    - Run the following command to generate a config: `ntfy smth`
+    - Run the following command to generate a config: `ntfy webpush keys`
 - **web-push-file** stores the subscription database.
 - **web-push-email-address** → Contact email for push service.
 
